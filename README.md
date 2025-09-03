@@ -6,7 +6,7 @@ Este é um projeto simples para calcular descontos
 - Calcular desconto percentual
 - Calcular desconto fixo
 
-📌 Como Usar
+## 📌 Como Usar
 
 Clone o repositório:
 git clone https://github.com/patriciapossarii/desafio-logica-01.git
