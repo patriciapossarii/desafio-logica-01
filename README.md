@@ -17,7 +17,7 @@ desafio-logica-01
 
 
 Execute o script:
-- desconto percentual: 
+- Desconto percentual: 
   `node tests/calculoDescontoPercentual.test.js`
 
-- desconto fixo: `node tests/calculoDesconto.test.js`
+- Desconto fixo: `node tests/calculoDesconto.test.js`
